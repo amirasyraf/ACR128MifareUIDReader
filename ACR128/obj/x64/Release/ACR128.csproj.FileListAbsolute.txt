@@ -1,0 +1,10 @@
+C:\Users\amira\Documents\AmirDev\ACR128\ACR128\bin\x64\Release\ACR128.exe.config
+C:\Users\amira\Documents\AmirDev\ACR128\ACR128\bin\x64\Release\ACR128.exe
+C:\Users\amira\Documents\AmirDev\ACR128\ACR128\bin\x64\Release\ACR128.pdb
+C:\Users\amira\Documents\AmirDev\ACR128\ACR128\obj\x64\Release\ACR128.csproj.CoreCompileInputs.cache
+C:\Users\amira\Documents\AmirDev\ACR128\ACR128\obj\x64\Release\ACR128.exe
+C:\Users\amira\Documents\AmirDev\ACR128\ACR128\obj\x64\Release\ACR128.pdb
+C:\Users\amira\Documents\AmirDev\ACR128\ACR128\obj\x64\Release\ACR128.csprojAssemblyReference.cache
+C:\Users\amira\Documents\AmirDev\ACR128\ACR128\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\amira\Documents\AmirDev\ACR128\ACR128\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\amira\Documents\AmirDev\ACR128\ACR128\obj\x64\Release\ACR128.csproj.CopyComplete

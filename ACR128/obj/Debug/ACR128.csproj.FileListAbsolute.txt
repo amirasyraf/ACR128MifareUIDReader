@@ -1,0 +1,6 @@
+C:\Users\amira\source\repos\ACR128\ACR128\bin\Debug\ACR128.exe.config
+C:\Users\amira\source\repos\ACR128\ACR128\bin\Debug\ACR128.exe
+C:\Users\amira\source\repos\ACR128\ACR128\bin\Debug\ACR128.pdb
+C:\Users\amira\source\repos\ACR128\ACR128\obj\Debug\ACR128.csproj.CoreCompileInputs.cache
+C:\Users\amira\source\repos\ACR128\ACR128\obj\Debug\ACR128.exe
+C:\Users\amira\source\repos\ACR128\ACR128\obj\Debug\ACR128.pdb

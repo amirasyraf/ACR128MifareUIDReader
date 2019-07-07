@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACR128", "ACR128\ACR128.csproj", "{A08B0483-7230-48FC-ABF3-4DDA2B269357}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A08B0483-7230-48FC-ABF3-4DDA2B269357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A08B0483-7230-48FC-ABF3-4DDA2B269357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A08B0483-7230-48FC-ABF3-4DDA2B269357}.Debug|x64.ActiveCfg = Debug|x64
+		{A08B0483-7230-48FC-ABF3-4DDA2B269357}.Debug|x64.Build.0 = Debug|x64
+		{A08B0483-7230-48FC-ABF3-4DDA2B269357}.Debug|x86.ActiveCfg = Debug|x86
+		{A08B0483-7230-48FC-ABF3-4DDA2B269357}.Debug|x86.Build.0 = Debug|x86
+		{A08B0483-7230-48FC-ABF3-4DDA2B269357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A08B0483-7230-48FC-ABF3-4DDA2B269357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A08B0483-7230-48FC-ABF3-4DDA2B269357}.Release|x64.ActiveCfg = Release|x64
+		{A08B0483-7230-48FC-ABF3-4DDA2B269357}.Release|x64.Build.0 = Release|x64
+		{A08B0483-7230-48FC-ABF3-4DDA2B269357}.Release|x86.ActiveCfg = Release|x86
+		{A08B0483-7230-48FC-ABF3-4DDA2B269357}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CF381C0-97BA-435D-BC12-6B92D9E8AA1F}
+	EndGlobalSection
+EndGlobal
